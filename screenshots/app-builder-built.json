@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Helix CAT",
+      "hasCanvas": false,
+      "bodyTextLen": 1471,
+      "bodyTextHash": "53f3ef7ed4667cd727697c95f8967a6916148c7e62912dbeae7d084ea7afb62a",
+      "bodyTextPrefix": "H Helix CAT EDUCATIONAL MOCK 524 calibrated items FULL-LENGTH SI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Helix CAT",
+      "hasCanvas": false,
+      "bodyTextLen": 1450,
+      "bodyTextHash": "d0ae68038652f061e00fcd6fb8218dbc7099e65752ce11d09d5f0484841a1177",
+      "bodyTextPrefix": "H Helix CAT EDUCATIONAL MOCK FULL-LENGTH SIMULATION AMC 1 — CAT-",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
